@@ -18,8 +18,8 @@ namespace ueloc
             //args 1 : csv source strings output path
             //args 2 : po output dir
             //args 3 : po file name
-            //args 4 : replace regex
-
+            //args 4 : replace regex (e.g. "{{\\w.*}}")
+            //example: UELoc.exe "Example.xlsx" "output\example.csv" "output" "example.po" "{{\\w.*}}"
             if (args.Length < 4){
                 Console.WriteLine("Invalid arguments");
                 return;

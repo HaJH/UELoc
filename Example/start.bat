@@ -1,0 +1,1 @@
+UELoc.exe "Example.xlsx" "output\example.csv" "output" "example.po" "{{\\w.*}}"

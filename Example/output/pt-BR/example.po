@@ -1,0 +1,32 @@
+
+
+msgctxt ",Sys_Main_Delete"
+msgid "Delete"
+msgstr "Apagar"
+
+
+msgctxt ",Sys_Msg_Delete_A"
+msgid "Delete {{A}}."
+msgstr "Deletar {{A}}."
+
+
+msgctxt ",Sys_Msg_Delete_Data"
+msgid "Delete Data."
+msgstr "Deletar Dados."
+
+
+msgctxt ",Sys_Msg_Confirm_Delete_Save_Data"
+msgid "{{Sys_Msg_Delete_Data}}\r\n{{Sys_Msg_Continue}}"
+msgstr "{{Sys_Msg_Delete_Data}}\r\n{{Sys_Msg_Continue}}"
+
+
+msgctxt ",Sys_Main_Character"
+msgid "Character"
+msgstr "Personagem"
+
+
+msgctxt ",Sys_Msg_Continue"
+msgid "Are you sure you want to proceed?"
+msgstr "Você tem certeza de que deseja prosseguir?"
+
+

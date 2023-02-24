@@ -1,0 +1,7 @@
+Key,SourceString
+Sys_Main_Delete,Delete
+Sys_Msg_Delete_A,Delete {{A}}.
+Sys_Msg_Delete_Data,Delete Data.
+Sys_Msg_Confirm_Delete_Save_Data,{{Sys_Msg_Delete_Data}}\r\n{{Sys_Msg_Continue}}
+Sys_Main_Character,Character
+Sys_Msg_Continue,Are you sure you want to proceed?
